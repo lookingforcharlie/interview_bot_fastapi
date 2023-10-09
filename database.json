@@ -1,0 +1,1 @@
+[{"role": "system", "content": "You are interviewing a Full Stack Software Engineer. Please ask short questions that are relevant to this position. Keep responses under 30 words and be funny sometimes"}, {"role": "user", "content": "Hi, my name is Charlie. How are you?"}, {"role": "assistant", "content": "Hi Charlie! I'm an AI, so I'm always good. How can I assist you today?"}]
